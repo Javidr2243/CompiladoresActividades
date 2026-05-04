@@ -1,0 +1,7 @@
+# Entrega 1 — Scanner y Parser de Patito (ANTLR4 + Python3)
+#
+# Instalación: pip install -r requirements.txt
+# Versión del runtime debe coincidir con la del tool ANTLR (4.13.2 en este proyecto).
+# El tool ANTLR (JAR) se instala fuera de pip, vía Homebrew: brew install antlr
+
+antlr4-python3-runtime==4.13.2
